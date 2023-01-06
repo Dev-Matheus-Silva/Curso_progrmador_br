@@ -1,0 +1,54 @@
+body{
+    font-family: "open sans",Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.h1,h2{
+    color:#333
+}
+
+.top-bar{
+    background-color:#333 ;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    border-bottom:5px solid orange ;
+}
+.container{
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+}
+
+.headline{
+    font-size: 56px;
+    line-height: 64px;
+}
+
+.subtitle{
+    font-weight: normal;
+    font-size: 20px;
+
+
+}
+
+.author{
+    font-weight: bold;
+    font-size:0.8em ;
+}
+
+.social-icons{
+    margin-top: 10px;
+}
+
+.social-icon{
+   width: 20px;
+   padding: 10px 10px 10px 0;
+}
+
+a{
+    text-decoration: none;
+}
